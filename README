@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4709
+
+unite-n3337 is a Vim plugin for |unite.vim| to look in highlighted N3337
+quickly.  N3337 is Working Draft, Standard for C++, which is the nearest draft
+to ISO/IEC 14882:2011.
+
+Github repository of this plugin is below. Please check to get more information. 
+https://github.com/rhysd/unite-n3337
